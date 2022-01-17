@@ -1,0 +1,6 @@
+print("{:<30}".format("Hola Mundo"))
+print("{:5}".format("Hola Mundo"))
+print("{:.5}".format("Hola Mundo"))
+print("{:^10.2}".format("Hola Mundo"))
+print("{:x}".format(231875))
+print("{:b}".format(7887))
